@@ -14,6 +14,7 @@ Main Features Include:
 - Detects deltas awarded (gift awarded to OP when one's view is changed)
 - Scores persuasiveness from 0-1 using weights
 - Exports clean datasets for further research
+- Rate limiting
 
 The persuasion factors analyzed are:
 1. Argument Length/Depth (25% weight) - Detailed vs surface level arguments
